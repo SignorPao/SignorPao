@@ -8,10 +8,10 @@
   <p>I'm a web developer</p>
 </div>
 
-<hr />
+---
 
-<div id="skills">
-  <h3>What I already know and do?</h3>
+### :unlock: What I already know and do?
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the=badge" alt="html" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the=badge" alt="css" />
   <img src="https://img.shields.io/badge/LESS-1D365D?logo=less&logoColor=white&style=for-the=badge" alt="less" />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white&style=for-the=badge" alt="figma" />
   <img src="https://img.shields.io/badge/JAVA SCRIPT-F7DF1E?logo=javascript&logoColor=white&style=for-the=badge" alt="java script" />
   <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=white&style=for-the=badge" alt="react" />
-</div>
+</p>
 
 ---
 
