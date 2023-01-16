@@ -3,14 +3,14 @@
 </div>
 
 <div id="greet">
-  <h3>Hi there 👋</h3>
+  <h3>Hi there!</h3>
   <h3>My name is Pavel Belousov</h3>
   <p>I'm a web developer</p>
 </div>
 
 ---
 
-### :unlock: What I already know and do?
+### What I already know and do?
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the=badge" alt="html" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the=badge" alt="css" />
@@ -20,13 +20,33 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white&style=for-the=badge" alt="figma" />
   <img src="https://img.shields.io/badge/JAVA SCRIPT-F7DF1E?logo=javascript&logoColor=white&style=for-the=badge" alt="java script" />
   <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=white&style=for-the=badge" alt="react" />
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?logo=tailwindcss&logoColor=white&style=for-the=badge" alt="tailwind" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the=badge" alt="node" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?logo=express&logoColor=white&style=for-the=badge" alt="express" />
+  <img src="https://img.shields.io/badge/MONGO DB-47A248?logo=mongodb&logoColor=white&style=for-the=badge" alt="mongo" />
 </p>
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=signorpao&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signorpao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Send me a message!
+<p>
+  <a href="https://www.linkedin.com/in/pavel-belousov-784963248/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=white&style=for-the=badge" alt="linkedin" />
+  </a>
+   <a href="https://wa.me/89969587558" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?logo=whatsapp&logoColor=white&style=for-the=badge" alt="whatsapp" />
+  </a>
+   <a href="https://telegram.me/signor_Pao" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?logo=telegram&logoColor=white&style=for-the=badge" alt="telegram" />
+  </a>
+</p>
+
 
 
 <img src="https://komarev.com/ghpvc/?username=signorpao&style=flat-square&color=blue" alt="counter"/>
