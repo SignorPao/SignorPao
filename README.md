@@ -11,22 +11,7 @@
 ---
 
 ### What I already know and do?
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the=badge" alt="html" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the=badge" alt="css" />
-  <img src="https://img.shields.io/badge/LESS-1D365D?logo=less&logoColor=white&style=for-the=badge" alt="less" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the=badge" alt="sass" />
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?logo=bootstrap&logoColor=white&style=for-the=badge" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white&style=for-the=badge" alt="figma" />
-  <img src="https://img.shields.io/badge/JAVA SCRIPT-F7DF1E?logo=javascript&logoColor=white&style=for-the=badge" alt="java script" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=white&style=for-the=badge" alt="react" />
-  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?logo=tailwindcss&logoColor=white&style=for-the=badge" alt="tailwind" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the=badge" alt="node" />
-  <img src="https://img.shields.io/badge/EXPRESS-000000?logo=express&logoColor=white&style=for-the=badge" alt="express" />
-  <img src="https://img.shields.io/badge/MONGO DB-47A248?logo=mongodb&logoColor=white&style=for-the=badge" alt="mongo" />
-</p>
-
-<div>
+<div id="technologies">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="60" />
@@ -40,14 +25,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" />
 </div>
 
-
 ---
 
 ### My tools:
-<div>
+<div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="60" />
 </div>
 
 ---
