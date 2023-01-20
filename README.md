@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/pavel-belousov-784963248/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=white&style=for-the=badge" alt="linkedin" />
   </a>
-   <a href="https://wa.me/89969587558" target="_blank">
+   <a href="https://wa.me/+79969587558" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?logo=whatsapp&logoColor=white&style=for-the=badge" alt="whatsapp" />
   </a>
    <a href="https://telegram.me/signor_Pao" target="_blank">
