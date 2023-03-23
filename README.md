@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="60" />
 </div>
 
 ---
