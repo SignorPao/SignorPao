@@ -5,7 +5,7 @@
 <div id="greet">
   <h3>Hi there!</h3>
   <h3>My name is Pavel Belousov</h3>
-  <p>I'm a web developer</p>
+  <p>I'm a frontend developer</p>
 </div>
 
 ---
