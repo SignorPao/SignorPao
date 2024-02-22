@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" />
